@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import Presentation from "./components/Presentation";
-import Projects from "./components/Projects";
+import Projects from "./components/Projects.jsx";
 import Technologies from "./components/Technologies";
 import Contact from "./components/Contact";
 import RevealOnScroll from "./components/RevealOnScroll";

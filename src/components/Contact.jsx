@@ -68,7 +68,7 @@ export default function Contact() {
         }}
       >
         {({ errors, touched }) => (
-          <Form className="mx-auto max-w-xl">
+          <Form className="mx-auto max-w-xl p-4 sm:p-0">
             <div className="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
               <div className="sm:col-span-2">
                 <RevealOnScroll>

@@ -2,8 +2,8 @@ import Logo from "../images/logo.svg";
 
 const Navbar = () => {
   return (
-    <div className="flex justify-between p-6">
-      <h1 className="text-[#0db75f] text-[24px] transition duration-700 ease-in-out hover:text-[#0db75fb6] font-bold cursor-pointer flex gap-4 items-center">
+    <div className="flex-col gap-6 sm:gap-0 justify-center text-center sm:flex-row flex sm:justify-between p-6">
+      <h1 className="text-[#0db75f] text-[24px] justify-center sm:justify-normal transition duration-700 ease-in-out hover:text-[#0db75fb6] font-bold cursor-pointer flex gap-4 items-center">
         <img
           src={Logo}
           alt="Logo"
@@ -11,7 +11,7 @@ const Navbar = () => {
         />
         <a href="./">Facundo</a>
       </h1>
-      <ul className="flex gap-6 font-semibold items-center">
+      <ul className="justify-center sm:justify-normal flex gap-6 font-semibold items-center">
         <a
           href="#presentacion"
           className="transition duration-700 ease-in-out hover:text-[#0db75fb6]"
