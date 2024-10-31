@@ -18,7 +18,7 @@ const Presentation = () => {
           robustos que optimizan el rendimiento y la escalabilidad.
         </p>
         <ul className="text-[#707884] w-[120px] gap-2 grid grid-cols-3">
-          <a href="#">
+          <a href="https://github.com/FacundoTM">
             <li>
               <img
                 className="transition duration-700 ease-in-out hover:opacity-50"
@@ -26,7 +26,7 @@ const Presentation = () => {
               />
             </li>
           </a>
-          <a href="#">
+          <a href="https://www.linkedin.com/in/facundotm/">
             <li>
               <img
                 className="transition duration-700 ease-in-out hover:opacity-50"
@@ -34,7 +34,7 @@ const Presentation = () => {
               />
             </li>
           </a>
-          <a href="#">
+          <a href="mailto:tmfacundo@gmail.com">
             <li>
               <img
                 className="transition duration-700 ease-in-out hover:opacity-50"
