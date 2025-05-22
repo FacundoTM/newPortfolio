@@ -20,10 +20,10 @@ const products = [
   {
     id: 3,
     name: "Aplicación de clima",
-    href: "https://frontweather-0i41.onrender.com/",
+    href: "https://app-clima-f.vercel.app/",
     imageSrc: "https://i.imgur.com/XTJMShW.jpeg",
     imageAlt: "Logo app clima",
-    desc: "Sistema para ver el clima de determinada ciudad. Se utilizó React para el FrontEnd y Express para el backend.",
+    desc: "Sistema para ver el clima de determinada ciudad. Se utilizó React para el FrontEnd y Nestjs para el backend.",
   },
 
   // More products...
