@@ -18,11 +18,18 @@ const Technologies = () => {
             Express
           </li>
           <li className="w-fit self-center cursor-pointer transition duration-700 hover:opacity-50 border-[1px] p-4">
+            NestJS
+          </li>
+          <li className="w-fit self-center cursor-pointer transition duration-700 hover:opacity-50 border-[1px] p-4">
             TypeScript
           </li>
           <li className="w-fit self-center cursor-pointer transition duration-700 hover:opacity-50 border-[1px] p-4">
             MongoDB
           </li>
+          <li className="w-fit self-center cursor-pointer transition duration-700 hover:opacity-50 border-[1px] p-4">
+            SQL
+          </li>
+          
         </div>
       </ul>
     </div>
